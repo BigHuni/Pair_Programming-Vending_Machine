@@ -9,6 +9,13 @@
 ![Vending_Machine](https://user-images.githubusercontent.com/79084294/147772018-9110d678-c15f-4fa8-8f4b-fc8047ebc0db.PNG)
 ---
 
+## 🔸 기능 구현
+- 미디어 쿼리 적용
+- Sass 적용
+- module 사용
+- JavaScript 구현 예정
+
+<br>
 
 ## 🔸 내용
 - Cola Cola 로고
